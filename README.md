@@ -43,7 +43,7 @@ Every cell examines its 8 neighbours (horizontal, vertical, and diagonal) each g
 python conway_gof.py
 ```
 
-The simulation runs for 50 generations by default, with a 0.2s delay between frames.
+The simulation runs for 100 generations by default, with a 0.2s delay between frames.
 
 ---
 
